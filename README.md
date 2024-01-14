@@ -6,4 +6,8 @@
 
 💞️ I’m looking to collaborate on web developement, anything that gets me learning
 
-📫 How to reach me at [linkedin.com/in/dylankayyem] or [dylankayyem@gmail.com]
+📫 How to reach me at?
+
+- Message me on: [www.linkedin.com/in/dylankayyem] 
+
+- Or shoot me an email at: [dylankayyem@gmail.com]
