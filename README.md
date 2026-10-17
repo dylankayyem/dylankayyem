@@ -1,5 +1,7 @@
 👋 Hi, I’m @dylankayyem
 
+💼 I’m currently the Marketing Technology Manager at [Titan Vans](https://www.titanvans.com/) in Boulder, CO.
+
 👀 I’m interested in all things coding, primarily software developement!
 
 
