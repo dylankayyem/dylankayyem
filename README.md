@@ -1,6 +1,6 @@
 👋 Hi, I’m @dylankayyem
 
-💼 I’m currently the Marketing Technology Manager for [Titan Vans](https://www.titanvans.com/) and [Timber Van Kits](https://www.timbervankits.com/) in Boulder, CO.
+💼 I’m currently the Junior Marketing Technology Manager for [Titan Vans](https://www.titanvans.com/) and [Timber Van Kits](https://www.timbervankits.com/) in Boulder, CO.
 
 👀 I’m interested in all things coding, primarily software developement!
 
